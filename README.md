@@ -31,4 +31,4 @@ The following models are used in this project:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/DhairyaPatel1911/House-Price-Prediction.git
